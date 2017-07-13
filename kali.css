@@ -1,0 +1,25 @@
+body{
+ Background: Red;
+}
+p{
+ front-family:sans-serif;
+}
+
+h1{
+color:Grey
+}
+H2{
+color:maroon
+}
+
+.heading {
+font-weight:bold;
+}
+#dogfood{
+    color: pink;
+
+   font-size:200%;
+}
+a{
+  color: purple
+}
