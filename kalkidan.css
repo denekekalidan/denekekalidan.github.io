@@ -36,9 +36,10 @@ a:visited {
  
  img {
 width:200px:
+float:right;
 }
 
-img.left {
+img.left { 
 }
 
 #footer {
