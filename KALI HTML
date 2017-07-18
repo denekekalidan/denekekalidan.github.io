@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 
 	<head>
@@ -29,7 +29,7 @@
 				<p>Fugit at voluptatem ipsa. Deleniti qui sunt culpa vitae. Et libero nesciunt veritatis fugit optio ea cum eum. Sunt dolorem enim rem nihil.</p>
 <p>Esse nostrum architecto hic soluta magni laudantium. Eos fuga ullam rerum nihil quis magni. Cumque enim dignissimos a. Eius velit est quam beatae recusandae fugit corrupti deleniti. Qui consequatur ea animi atque qui.</p>
 
-			< img src="https://www.st-andrews.ac.uk/~sjp7/pictures/other_pictures/d2.jpg"alt ="seconed image"/>
+			< img class="left" src="https://www.st-andrews.ac.uk/~sjp7/pictures/other_pictures/d2.jpg" alt ="second image"/>
 
 				<p>Itaque hic asperiores ut illum. Nihil laudantium incidunt enim. Consequuntur qui eum animi nisi debitis voluptatem natus nihil. Ipsa quia ea quae soluta. Rerum mollitia asperiores rerum cupiditate.</p>
 
