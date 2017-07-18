@@ -1,5 +1,5 @@
 body {
-	
+background-#ff3366	
 }
 	
 #contents {
@@ -13,6 +13,8 @@ h1 {
 }
 
 A:link {
+	text-decoration:none;
+	color:#fco;
 
 }
 
@@ -37,6 +39,8 @@ a:visited {
  img {
 width:200px:
 float:right;
+	 
+	 
 }
 
 img.left { 
