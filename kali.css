@@ -19,14 +19,16 @@ H2{
 color:maroon
 }
 
-.heading {
-font-weight:bold;
+img {
+ width:200px;
+  float:right;
+ padding:30px;
 }
-#dogfood{
-    color: pink;
-
-   font-size:200%;
+img.left{
+ float:left;
+ padding:30px;
 }
-a{
-  color: purple
+#footer{
+}
+#clearer{
 }
