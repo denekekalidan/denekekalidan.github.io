@@ -13,10 +13,18 @@ body{
 }
 
 h1{
-color:Grey
+}
+A:link{
+}
+A:visited{
 }
 H2{
-color:maroon
+}
+#head lock address{
+}
+#home, #page2 {
+ background color:blue
+  padding:30px;
 }
 
 img {
