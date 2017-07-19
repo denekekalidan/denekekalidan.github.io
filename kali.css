@@ -1,7 +1,14 @@
 body{
  Background: Red;
+ color:#000066;
 }
-p{
+#contents{
+ margin-left:auto;
+ margin-right:auto;
+ width:600px;
+ 
+ backgronud:#fffd99;
+ padding:30px;
  front-family:sans-serif;
 }
 
