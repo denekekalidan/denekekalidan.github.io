@@ -1,4 +1,4 @@
-body {
+  body {
 background:#ff3366;
 color:#000066
 }
@@ -10,7 +10,9 @@ color:#000066
 	margin-left:auto;
 	margin-right:auto;
    width:700px;
-
+	front-family:'late',sans-serif;
+	front-size:medium;
+  border:white insert 30px;
 }
 h1 { 
 
