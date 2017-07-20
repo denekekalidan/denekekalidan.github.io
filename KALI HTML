@@ -15,7 +15,15 @@
 				<address>
 					<a href="mailto:KALITENSA1999@GMAIL.COM">KALITENSAY1999@GMAIL.COM </a>
 				</address>
-
+<script>
+function myFunction(){
+var x = document.getElementById("myTopnav");
+if (x.className === "topnav") { 
+x.className += " responsive";  
+} else 
+{x.className = "topnav";    
+}
+}</script>
 			</div>
 
 			<div id = "home">
