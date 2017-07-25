@@ -1,0 +1,24 @@
+ <!doctype html>
+<html>
+<head>
+<title> ethio smart <title/>
+<liknk rel="stylesheet" type="text/css" href="kalkidan.css"/>
+</head>
+
+
+<body>
+<div id="1">
+ one 
+</div> 
+
+
+<div id="2">
+two
+</div>
+
+<div id="3">
+three
+</div>
+
+</body>
+</html>
