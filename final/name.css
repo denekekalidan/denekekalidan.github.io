@@ -13,10 +13,6 @@ background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9d
 
 	background-color:rgba(0,0,0,.75);
 
-	background-color:conflowerblue;
-
-	color:black;
-
 	front-family:'lato',sans-serif;
 
 	front-size:medium;
@@ -28,6 +24,11 @@ background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9d
 	background-color: darkgrey;
 	color: white;
 	display: inline-block;
+	padding: 30px;
+
+        margin-left:auto;
+
+        margin-right:auto;
 	width: 100%;
 }
 
@@ -35,6 +36,9 @@ background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9d
 	background-color: lightblue;# header-inner{ 
 	padding:50px 0;
 	width: 100%;
+		padding: 30px;
+        margin-left:auto;
+        margin-right:auto;
 	background:#darkgray
 		color:white
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body
