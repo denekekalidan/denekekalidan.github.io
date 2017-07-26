@@ -25,7 +25,7 @@ background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9d
 	background-color: darkgrey;
 	color: white;
 	display: inline-block;
-	padding: 50px;
+	padding: 30px;
 
         margin-left:auto;
 
@@ -41,7 +41,7 @@ background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9d
 
 #bottom {
 	background-color: lightblue;# header-inner{ 
-	padding:50px;
+	
 	width: 700%;
 		padding: 30px;
         margin-left:auto;
