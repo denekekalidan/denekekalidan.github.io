@@ -1,4 +1,5 @@
- #top {
+
+#top {
 background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9dbfca5c369c668409b1ac1f96008a--roadtrip-quotes-road-quotes.jpg");
 	
 	padding: 30px;
@@ -35,6 +36,7 @@ background: #66ffff url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9d
 	front-family:'lato',sans-serif;
 
 	front-size:medium;
+	border:white insert 30px;
 }
 
 #bottom {
