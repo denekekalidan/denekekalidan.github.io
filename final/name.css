@@ -1,6 +1,6 @@
 
 #top {
-background: url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9dbfca5c369c668409b1ac1f96008a--roadtrip-quotes-road-quotes.jpg");
+background-color:white;
 	
 	padding: 30px;
 
@@ -23,7 +23,7 @@ background: url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9dbfca5c36
 	
 	background-color: darkgrey;
 	color: white;
-	display: inline-block;
+	
 	padding: 30px;
 
         margin-left:auto;
