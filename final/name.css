@@ -20,6 +20,8 @@ background: url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9dbfca5c36
   border:white insert 30px;
 }
 #middle {
+	
+background: url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9dbfca5c369c668409b1ac1f96008a--roadtrip-quotes-road-quotes.jpg");
 	background-color: darkgrey;
 	color: white;
 	display: inline-block;
@@ -45,7 +47,10 @@ background: url("https://s-media-cache-ak0.pinimg.com/736x/ff/9d/bf/ff9dbfca5c36
         margin-left:auto;
         margin-right:auto;
 	background:#darkgray
-		color:white
+		color:white 
+		front-family:'lato',sans-serif;
+
+	front-size:medium;
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body
 
 
@@ -53,16 +58,14 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 
 
 
-	front-family:'lato',sans-serif;
-
-	front-size:medium;
+	
 	}
 
 
 
 body {
 
-background:#ff3366;
+background:white;
 
 color:#000066
 
